@@ -1,32 +1,51 @@
-# AlleyMarket Read Me
+## 🍎 AlleyMarket Read Me
 
 > 코로나 19로 인해 침체된 전통시장상권의 활성화를 위해 전통시장에 배달서비스를 접목시킨 사이트입니다.
 사용자들은 좋은 물건을 편리하게 구매할 수 있고, 시장에서는 젊은 층의 구매자를 확보할 수 있어서 상생을 이룰 수 있습니다. 
 또한 배달음식을 많이 시켜먹는 젊은 층들도 간편하게 건강한 식사를 할 수 있도록 시장물건들로 구성된 밀키트도 판매합니다.
 
-<a href="http://18.222.233.235:9000/" target="_blank">Aws 서버에 배포한 사이트주소 링크입니다</a>
-(ctrl + click시 새창열기 가능)
+<br/>
+
+<p align="center">
+<a href="http://18.222.233.235:9000/" target="_blank"><img src="https://img.shields.io/badge/사이트링크-000000?style=flat-square&logo=SitePoint&logoColor=white"/></a>
+</p>
+<h6 align="center">(ctrl + click시 새창열기 가능)</h6>
+
+<br/>
+
+## 📝 Skill & Preview
+<p align="center">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> &nbsp
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> &nbsp
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> &nbsp
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/> &nbsp
+<img src="https://img.shields.io/badge/Spring Boot-47A248?style=flat-square&logo=Spring Boot&logoColor=white"/> &nbsp 
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> &nbsp 
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> &nbsp 
+<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/> &nbsp </p>
+<br/>
+<br/>
 
 
+## ⚠ Installation
 
-
-# Installation
-
-## **Project setup**
+### **Project setup**
 
 ```jsx
 npm install
 ```
 
-## **Compiles and hot-reloads for development**
+### **Compiles and hot-reloads for development**
 
 ```jsx
 npm run serve
 ```
 
-# 기능설명
+<br/>
 
-## 1. 관리자
+## 🔍 기능설명
+
+### 1. 관리자
 
 - 로그인 : 로그인 시 바로 관리자 메인 화면으로 이동
 
@@ -38,7 +57,7 @@ npm run serve
 
 - 문의관리 : 사용자가 남긴 문의를 확인가능하며, 문의에 대한 답변을 남길 수 있다. 
 
-## 2. 사용자
+### 2. 사용자
 
 - 로그인 : 로그인 시 Index페이지로 이동되며 상품리스트를 볼 수 있고, 상품구입이 가능하다
 
