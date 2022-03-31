@@ -26,6 +26,10 @@
 <br/>
 <br/>
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/82005305/161007819-adbe9bb9-f26d-437c-a692-7ff12578f062.gif" style="width:700px";>
+<p/>
+
 
 ## ⚠ Installation
 
