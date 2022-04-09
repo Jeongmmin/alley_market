@@ -13,6 +13,15 @@
 
 <br/>
 
+
+## 📅 프로젝트 기간
+<br/>    
+
+> **2021.08.30 - 2022.09.10 (3명)**  
+<br/>
+<br/>
+
+
 ## 📝 Skill & Preview
 <p align="center">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> &nbsp
